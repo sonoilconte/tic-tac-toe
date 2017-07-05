@@ -1,6 +1,5 @@
 // Functionality
-// user hits begin
-// X's start- we see an X hovering with the mouse in the browser- this is intuitive way to see whose turn it is. 
+// X's start- we see a msg saying whose turn it is
 // make sure at the end of the turn, it switches var turn from X to O or vice versa
 // on click in a certain div, a function puts an X or O in an array in the appropriate spot
 // then we run a function checkOutcome which looks at the rows, coloumns and diagonals 
